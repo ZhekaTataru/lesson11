@@ -1,0 +1,131 @@
+.s1:link {
+    display: block;
+    color: gold;
+    font-size: 20px;
+    text-decoration: none;
+}
+.s1:active{
+ color: green;
+}
+.s1:hover {
+    background-color: mediumslateblue;
+    font-size: 50px;
+}
+.s2:link {
+    display: block;
+    color: rgb(64, 61, 250);
+    font-size: 20px;
+    text-decoration: none;
+}
+.s2:active{
+ color: green;
+}
+.s2:hover {
+    background-color: mediumslateblue;
+    font-size: 50px;
+}
+.s3:link {
+    display: block;
+    color: rgb(39, 226, 217);
+    font-size: 20px;
+    text-decoration: none;
+}
+.s3:active{
+ color: green;
+}
+.s3:hover {
+    background-color: mediumslateblue;
+    font-size: 50px;
+}
+.s4:link {
+    display: block;
+    color: rgb(198, 40, 247);
+    font-size: 20px;
+    text-decoration: none;
+}
+.s4:active{
+ color: green;
+}
+.s4:hover {
+    background-color: mediumslateblue;
+    font-size: 50px;
+}
+.s5:link {
+    display: block;
+    color: rgb(134, 240, 47);
+    font-size: 20px;
+    text-decoration: none;
+}
+.s5:active{
+ color: rgb(142, 47, 197);
+}
+.s5:hover {
+    background-color: mediumslateblue;
+    font-size: 50px;
+}
+.s6:link {
+    display: block;
+    color: rgb(78, 0, 151);
+    font-size: 20px;
+    text-decoration: none;
+}
+.s6:active{
+ color: rgb(163, 230, 163);
+}
+.s6:hover {
+    background-color: mediumslateblue;
+    font-size: 50px;
+}
+.s7:link {
+    display: block;
+    color: rgb(245, 26, 26);
+    font-size: 20px;
+    text-decoration: none;
+}
+.s7:active{
+ color: rgb(240, 157, 191);
+}
+.s7:hover {
+    background-color: mediumslateblue;
+    font-size: 50px;
+}
+.s8:link {
+    display: block;
+    color: rgb(185, 174, 16);
+    font-size: 20px;
+    text-decoration: none;
+}
+.s8:active{
+ color: green;
+}
+.s8:hover {
+    background-color: mediumslateblue;
+    font-size: 50px;
+}
+
+.s9:link {
+    display: block;
+    color: rgb(55, 74, 160);
+    font-size: 20px;
+    text-decoration: none;
+}
+.s9:active{
+ color: rgb(248, 175, 79);
+}
+.s9:hover {
+    background-color: mediumslateblue;
+    font-size: 50px;
+}
+.s10:link {
+    display: block;
+    color: rgb(243, 38, 151);
+    font-size: 20px;
+    text-decoration: none;
+}
+.s10:active{
+ color: rgb(0, 55, 128);
+}
+.s10:hover {
+    background-color: mediumslateblue;
+    font-size: 50px;
+}

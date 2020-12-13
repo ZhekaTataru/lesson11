@@ -1,0 +1,52 @@
+li:hover:nth-child(1){
+    background-color: cadetblue;
+    font-size: 30px;
+    color: gold;
+}
+li:hover:nth-child(2){
+    background-color: rgb(230, 167, 52);
+    color: coral;
+    font-size: 30px;
+   
+}
+li:hover:nth-child(3){
+    background-color: rgb(250, 161, 28);
+    font-size: 30px;
+    color: firebrick;
+}
+li:hover:nth-child(4){
+    background-color: rgb(245, 101, 132);
+    color: cornflowerblue;
+    font-size: 30px;
+}
+li:hover:nth-child(5){
+    background-color: rgb(207, 31, 199);
+    text-decoration: currentColor;
+    font-size: 30px;
+    color: green;
+}
+li:hover:nth-child(6){
+    background-color: rgb(205, 207, 39);
+    font-size: 30px;
+    color: magenta;
+}
+li:hover:nth-child(7){
+    background-color: cadetblue;
+    font-size: 30px;
+    color: mediumblue;
+}
+li:hover:nth-child(8){
+    background-color: rgb(13, 16, 218);
+    font-size: 30px;
+    color: yellow;    
+}
+li:hover:nth-child(9){
+    background-color: rgb(22, 189, 92);
+    font-size: 30px;
+    color: tomato;
+}
+li:hover:nth-child(10){
+    background-color: rgb(67, 27, 211);
+    font-size: 30px;
+    color: turquoise;
+}

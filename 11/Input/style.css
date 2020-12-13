@@ -1,0 +1,80 @@
+.w1{
+   display: block;
+}
+.w1:focus {
+    border-radius: 3px;
+    box-shadow: 1px 1px 10px blue ;
+    height: 30px;
+}
+.w2{
+    display: block;
+ }
+ .w2:focus {
+     border-radius: 3px;
+     box-shadow: 1px 1px 10px rgb(248, 54, 232) ;
+     height: 30px;
+ }
+ .w3{
+    display: block;
+ }
+ .w3:focus {
+     border-radius: 3px;
+     box-shadow: 1px 1px 10px rgb(51, 33, 129) ;
+     height: 30px;
+ }
+ .w4{
+    display: block;
+ }
+ .w4:focus {
+     border-radius: 3px;
+     box-shadow: 1px 1px 10px rgb(240, 227, 49) ;
+     height: 30px;
+ }
+ .w5{
+    display: block;
+ }
+ .w5:focus {
+     border-radius: 3px;
+     box-shadow: 1px 1px 10px rgb(138, 9, 88) ;
+     height: 30px;
+ }
+ .w6{
+    display: block;
+ }
+ .w6:focus {
+     border-radius: 3px;
+     box-shadow: 1px 1px 10px rgb(43, 243, 133) ;
+     height: 30px;
+ }
+ .w7{
+    display: block;
+ }
+ .w7:focus {
+     border-radius: 3px;
+     box-shadow: 1px 1px 10px rgb(226, 74, 226) ;
+     height: 30px;
+ }
+ .w8{
+    display: block;
+ }
+ .w8:focus {
+     border-radius: 3px;
+     box-shadow: 1px 1px 10px rgb(226, 230, 33) ;
+     height: 30px;
+ }
+ .w9{
+    display: block;
+ }
+ .w9:focus {
+     border-radius: 3px;
+     box-shadow: 1px 1px 10px rgb(116, 18, 197) ;
+     height: 30px;
+ }
+ .w10{
+    display: block;
+ }
+ .w10:focus {
+     border-radius: 3px;
+     box-shadow: 1px 1px 10px rgb(0, 255, 234) ;
+     height: 30px;
+ }
